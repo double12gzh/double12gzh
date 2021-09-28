@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on : CloudNative, Cloud
+- 🌱 I'm learning ...
+
+  <img width="32" height="32" src="./go.png"/><img width="32" height="32" src="./k8s.png"/>
+
 - 📫 How to reach me: https://gzh.readthedocs.io/
 - ⚡ Personal Pubs: <<OpenStack架构与实践>>
 - 🌱 Fun fact: Chinese Chess
