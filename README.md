@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on : CloudNative, Cloud, Go/Python/C/C++
+- 🔭 I’m currently working on : CloudNative, Cloud
 - 📫 How to reach me: https://gzh.readthedocs.io/
 - ⚡ Personal Pubs: <<OpenStack架构与实践>>
 - 🌱 Fun fact: Chinese Chess
