@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
   <img width="32" height="32" src="./go.png"/><img width="32" height="32" src="./k8s.png"/>
 
-- 📫 How to reach me: https://gzh.readthedocs.io/
+- 📫 How to reach me: [http://double12.githu.io](https://double12gzh.github.io/) or https://gzh.readthedocs.io/
 - ⚡ Personal Pubs: <<OpenStack架构与实践>>
 - 🌱 Fun fact: Chinese Chess
