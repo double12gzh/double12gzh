@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on : CloudNative, Cloud
+- 🔭 I’m currently working on : CloudNative, Cloud, AI
 - 🌱 I'm learning ...
 
   <img width="32" height="32" src="./go.png"/><img width="32" height="32" src="./k8s.png"/>
